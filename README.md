@@ -1,5 +1,7 @@
 # BELKIN WEMO DIMMER SWITCH INTEGRATION
 
+I first would like to thank @kris2k2 and then he would like to pass all the thanks on to @zzarbi for the excellent ground work to get this app up and running for the community.
+
 I only set this up while I was trying to get my Wemo dimmer switch working.  It's actually quite simple but the final result took some time to put together so maybe this will help someone down the line:
 
 ** My wemo dimmer switch was already set up and configured with the wemo app at this point.  
